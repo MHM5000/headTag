@@ -5,12 +5,12 @@ In this file(Readme.md) you'll find everything you need. But for more info visit
 
 &lt;head>
 ---
-CSS
-JS
-Meta
-Favicon Family
-IE Classes
-Google Analytics
-Robots.txt
-Human.txt
-Modernizer / HTML5Shiv
++ CSS
++ JS
++ Meta
++ Favicon Family
++ IE Classes
++ Google Analytics
++ Robots.txt
++ Human.txt
++ Modernizer / HTML5Shiv
