@@ -30,7 +30,7 @@ All contributions are welcomed.
 #### Mobile Apps
 
 ##### Apple
-** Promoting Apps with Smart App Banners: **
+**Promoting Apps with Smart App Banners:**
 ```
 <meta name="apple-itunes-app" content="app-id=myAppStoreID, affiliate-data=myAffiliateData, app-argument=myURL">
 ```
