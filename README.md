@@ -25,6 +25,9 @@ All contributions are welcomed.
 + Modernizer / HTML5Shiv
 
 
+### Doctype rules
++ Don't add '/' at the end of self-closing tags.
+
 ### Meta
 
 #### Mobile Apps
