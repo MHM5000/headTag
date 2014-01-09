@@ -9,19 +9,19 @@ All contributions are welcomed.
 
 &lt;head>
 ---
-+ Doctype (Mostly html5)
-+ Doctype rules (i.e.: Don't add '/' at the end of self-closing tags)
-+ CSS
-+ JS
-+ Meta
-    + Mobile Apps:
-        + Apple
-        + Android
-+ Favicon Family
-+ IE Classes
-+ Google Analytics
-+ Robots.txt
-+ Human.txt
++ [Doctype](#doctype) (Mostly html5)
++ [Doctype rules](#doctype-rules)
++ [CSS](#css)
++ [JS](#js)
++ [Meta](#meta)
+    + [Mobile Apps](#mobile-apps)
+        + [Apple](#apple)
+        + [Android](#android)
++ [Favicon Family](#favicon-family)
++ [IE realted](#ie-realted)
++ [Google Analytics](#google-analytics)
++ [Robots.txt](#robots.txt)
++ [Human.txt](human.txt)
 + Modernizer / HTML5Shiv
 
 
