@@ -9,24 +9,36 @@ All contributions are welcomed.
 
 &lt;head>
 ---
++ [CSS](#css)
 + [Doctype](#doctype) (Mostly html5)
 + [Doctype rules](#doctype-rules)
-+ [CSS](#css)
++ [Favicon](#favicon)
++ [Human.txt](human.txt)
++ [IE realted](#ie-realted)
 + [JS](#js)
 + [Meta](#meta)
+    + [Charset](#charset)
     + [Mobile Apps](#mobile-apps)
         + [Apple](#apple)
         + [Android](#android)
-+ [Favicon Family](#favicon-family)
-+ [IE realted](#ie-realted)
-+ [Google Analytics](#google-analytics)
-+ [Robots.txt](#robots.txt)
-+ [Human.txt](human.txt)
 + Modernizer / HTML5Shiv
++ [Robots.txt](#robots.txt)
++ [Title](#title)
 
+
+### Doctype
++ HTML5:
+    ```
+    <!DOCTYPE HTML>
+    ```
+
+### Title
+```
+<title>TITLE GOES HERE</title>
+```
 
 ### Doctype rules
-+ Don't add '/' at the end of self-closing tags.
++ Don't add '/' at the end of self-closing tags in HTML5.
 
 ### Meta
 
