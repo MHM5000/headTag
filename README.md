@@ -26,6 +26,26 @@ All contributions are welcomed.
 + [Title](#title)
 
 
+### CSS
++ Inline Styles:
+    ```
+    <p style="color:cyan;margin-top:2em;">This is a paragraph.</p>
+    ```
+
++ Internal Style:
+    ```
+    <head>
+        <style>
+            p {margin: 0 25px;}
+            body {background:rgba(37,20,55,0.8);}
+        </style>
+    </head>
+    ```
++ External Style:
+    ```
+    <link rel="stylesheet" href="mystyle.css">
+    ```
+
 ### Doctype
 + HTML5:
     ```
