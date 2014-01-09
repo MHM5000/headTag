@@ -13,7 +13,7 @@ All contributions are welcomed.
 + [Doctype](#doctype) (Mostly html5)
 + [Doctype rules](#doctype-rules)
 + [Favicon](#favicon)
-+ [Human.txt](human.txt)
++ [Human.txt](#human.txt)
 + [IE realted](#ie-realted)
 + [JS](#js)
 + [Meta](#meta)
