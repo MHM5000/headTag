@@ -57,6 +57,7 @@ All contributions are welcomed.
 
 ### Favicon
 + [Favicon Generator](http://realfavicongenerator.net/)
++ [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
 ### Meta
 
