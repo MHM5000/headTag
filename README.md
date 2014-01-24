@@ -53,7 +53,7 @@ All contributions are welcomed.
     ```
 
 ### Doctype rules
-+ Don't add '/' at the end of self-closing tags in HTML5.
++ Don't add ```/``` at the end of self-closing tags in HTML5.
 
 ### Favicon
 + [Favicon Generator](http://realfavicongenerator.net/)
