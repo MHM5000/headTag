@@ -1,4 +1,4 @@
-xheadTag
+headTag
 ===
 Everything that you may need to include in a &lt;head>.
 In this file(Readme.md) you'll find everything you need. But for more info visit [Refrences.md](/Refrences.md).
