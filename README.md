@@ -1,4 +1,4 @@
-headTag
+xheadTag
 ===
 Everything that you may need to include in a &lt;head>.
 In this file(Readme.md) you'll find everything you need. But for more info visit [Refrences.md](/Refrences.md).
@@ -52,11 +52,6 @@ All contributions are welcomed.
     <!DOCTYPE HTML>
     ```
 
-### Title
-```
-<title>TITLE GOES HERE</title>
-```
-
 ### Doctype rules
 + Don't add '/' at the end of self-closing tags in HTML5.
 
@@ -80,3 +75,9 @@ All contributions are welcomed.
     + If the user is in the midst of creating content, you can pass the session ID to download the web session state in your app so she can nondestructively resume her work.
 
     You can generate the app-argument of each page dynamically with a server-side script. You can format it however you'd like, as long as it is a valid URL.
+
+### Title
+```
+<title>TITLE GOES HERE</title>
+```
+
